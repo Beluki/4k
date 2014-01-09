@@ -8,6 +8,9 @@ minimum but it's easy to extend.
 
 Using [Crinkler][], it compiles to a 1kb executable.
 
+See also [4k-Example][] for a simple demo and [4kGL][] for the same thing
+using OpenGL instead of GDI.
+
 ### Compiling
 
 There are batch files the [Source][] folder that compile the project
@@ -33,6 +36,8 @@ than maintenance.
 Like all my hobby projects, this is Free Software. See the [Documentation][]
 folder for more information. No warranty though.
 
+[4k-Example]: https://github.com/Beluki/4k-Example
+[4kGL]: https://github.com/Beluki/4kGL
 
 [Crinkler]: http://www.crinkler.net
 [Iñigo Quilez]: http://www.iquilezles.org/www/material/isystem1k4k/isystem1k4k.htm
